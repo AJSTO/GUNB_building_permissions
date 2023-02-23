@@ -1,0 +1,15 @@
+numpy
+great_expectations
+airflow-provider-great-expectations==0.1.1
+apache-airflow-providers-postgres==5.3.1
+pandas
+seaborn
+folium==0.13.0
+wget==3.2
+requests
+pandas_gbq==0.18.1
+google-cloud-bigquery==3.4.1
+pyyaml
+sqlalchemy
+geopandas
+beautifulsoup4

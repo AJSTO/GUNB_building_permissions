@@ -1,0 +1,8 @@
+# SET CONFIGURATION TO JUPYTER NOTEBOOK FOR CONNECTING TO BQ
+PROJECT_ID:  gunb-project  # Project name in BIGQUERY
+DATASET_NAME: building_permissions #building_permissions  # Dataset name in BIGQUERY
+TABLE_PERMISSIONS: all_permissions  # Table name in BIGQUERY
+TABLE_AGGREGATES: aggregates  # Table name in BIGQUERY with all captured aggregates
+TABLE_UNITS_INFO: units_info # Table with names and units id's
+TABLE_INCREASE: increase_table # Table with increase values
+JSON_KEY_BQ: credentials.json

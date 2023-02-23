@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+.DS_Store
+.idea
+logs
+notebook/.ipynb_checkpoints
+notebook/OPENSTREETMAP_HTML
+notebook/POLYGON_SHAPE
+notebook/configuration_files/credentials.json
+dags/bigquery_dag/credentials.json
