@@ -225,5 +225,5 @@ Example of geovisualisation with folium:
 ## 🔎 Looker Studio
 Link to generated report in looker for last month:
 
-[Building permissions report for last month](https://lookerstudio.google.com/s/jHe7OddrWcI)
-![IMG LOOKER](https://i.postimg.cc/BZGKqJML/Zrzut-ekranu-2023-03-9-o-16-48-35.png)
+[Building permissions report for last month](https://lookerstudio.google.com/reporting/1bf425fd-8d79-456d-a49e-6cac0973dab3)
+![IMG LOOKER](https://github.com/AJSTO/GUNB_building_permissions/blob/master/img/gunb-looker.gif)
