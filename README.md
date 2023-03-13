@@ -24,6 +24,12 @@ The workflow is launched every month to collect newly issued permits with detail
 
 Additionally there was created container with jupyter notebook to create geovisualisations based on folium (which are using a openstreetmap). Created geovisualised report for cadastral districts and also voivodeships for last X months (you can chose 1-3 months back).
 
+## 🔎 Looker Studio
+Link to generated report in looker for last month:
+
+[Building permissions report for last month](https://lookerstudio.google.com/reporting/1bf425fd-8d79-456d-a49e-6cac0973dab3)
+![IMG LOOKER](https://github.com/AJSTO/GUNB_building_permissions/blob/master/img/gunb-looker.gif)
+
 ### 📧Exemplary e-mail report with GE validation:
 #### E-mail sent on e-mail:
 ![email](https://github.com/AJSTO/GUNB_building_permissions/blob/master/img/img_report.png)
@@ -222,8 +228,3 @@ Example of geovisualisation with folium:
 #### VOIVODSHIPS in last 3 months:
 ![IMG VOIVO](https://github.com/AJSTO/GUNB_building_permissions/blob/master/img/img_voivo.png)
 
-## 🔎 Looker Studio
-Link to generated report in looker for last month:
-
-[Building permissions report for last month](https://lookerstudio.google.com/reporting/1bf425fd-8d79-456d-a49e-6cac0973dab3)
-![IMG LOOKER](https://github.com/AJSTO/GUNB_building_permissions/blob/master/img/gunb-looker.gif)
